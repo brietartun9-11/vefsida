@@ -1,0 +1,21 @@
+site_name: Handbók húsfélagsins Bríetartúni 9-11
+site_url: https://brietartun911.is/
+nav:
+  - Um húsið: index.md
+  - Eldvarnir: 
+    - Viðbrögð við eldsvoða: eldur/index.md
+    - Nánar um eldvarnir hússins: eldur/eldvarnir.md
+  - Tæknilegar upplýsingar: taeknilegar_upplysingar.md
+  - Um húsfélagið: um_husfelagid.md
+  - Hafa samband: hafa_samband.md
+theme:
+  name: material
+  language: is
+  palette:
+    primary: brown
+    accent: red
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - attr_list
+  - md_in_html
