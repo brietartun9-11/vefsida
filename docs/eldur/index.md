@@ -23,7 +23,7 @@ Hver og einn verður að taka sjálfstæða ákvörðun hvort hann eigi að rá�
 Ekki reyna að endursetja eldvarnarkerfið á meðan hætta er ennþá til staðar, kerfið þarf að fá að halda áfram að væla til að vara fólk við hættunni og halda eldvarnarkerfum hússins virkum. Á meðan viðbragðsaðilar athafna sig í húsinu ráð þeir hvort og/eða hvenær kerfið er endursett.
 
 ## Brunaboð en enginn eldur til staðar
-Ef brunaviðvörunarkerfi fór af stað án þess að eldur væri til staðar eða hættan er yfirstaðin þarf að byrja á að laga það sem virkjaði kerfið og svo er hægt að endursetja það. Annars fer kerfið í gang aftur eftir endursetningu.
+Ef brunaviðvörunarkerfi fór af stað án þess að hætta sé til staðar eða hættan er yfirstaðin þarf að byrja á að laga það sem virkjaði kerfið og svo er hægt að endursetja það. Annars fer kerfið í gang aftur eftir endursetningu.
 
 ### Virkjaðist út frá reykskynjara
 Lofta þarf út úr rýminu ef kerfið fór af stað út frá reykskynjara, til dæmis með að opna glugga og hurð út á svalir. 

@@ -30,7 +30,7 @@ Dæmi um önnur kerfi sem bregðast við eldi:
 Í brunahönnun er grunnurinn lagður að brunavörnum byggingar. Húsfélagið hefur undir höndum tvær útgáfur af brunahönnunn fyrir húsið, sú fyrri [var unnin árin 2014 - 2018 af Eflu Verkfræðistofu fyrir PK – Arkitektar ehf. og má sækja hér](/media/brunahonnun-2018-efla.pdf). Hin var [unnin af Örugg Verkfræðistofu fyrir Höfðaíbúðir ehf. árin 2021 - 2022 og má sækja hér](/media/brunahonnun-2022-orugg.pdf).
 
 <figure markdown>
-![Útstöð brunaviðvörunarkerfis í anddyri](/media/brunavidvorunarkerfi-utstod.jpg)
+![Útstöð brunaviðvörunarkerfis í anddyri](/media/brunavidvorunarkerfi-utstodvar.jpg)
   <figcaption>Útstöð brunaviðvörunarkerfis í anddyri á jarðhæð</figcaption>
 </figure>
 
