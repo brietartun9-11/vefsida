@@ -1,7 +1,7 @@
 # Tæknilegar upplýsingar
-Hérna eru samantekt með völdum upplýsingum um húsið sem gætu gagnast við viðhald og endurbætur. Fyrstu eignir í húsinu voru afhentar kaupendum vorið 2019 en húsið var ekki fullklárað þá og hlutir gætu hafa verið gerðir á mismunandi hátt á milli einstakra eignarhluta. 
+Hérna er samantekt með völdum upplýsingum um húsið sem gætu gagnast við viðhald og endurbætur. Fyrstu eignir í húsinu voru afhentar kaupendum vorið 2019 en húsið var ekki fullklárað þá og hlutir gætu hafa verið gerðir á mismunandi hátt á milli einstakra eignarhluta. 
 
-Eigendur geta hafa gert breytingar á eignum sínum og upphaflegir kaupendur gætu hafa samið við byggingaraðila um öðruvísi frágang. Húsfélagið gæti hafa gert breytingar á sameign sem ekki eru skjalaðar hér. Upplýsingarnar eru birtar með fyrirvara um villur. Hér með er búið að vara þig við, engin ábyrgð er tekin á röngum upplýsingum sem kunna að vera hér. Áður en ákvarðanir eru teknar eða ráðist er í breytingar ætti alltaf að leita frumgagna, skoða hvort upplýsingarnar samrýmast raunveruleikanum og leita staðfestingar á upplýsingum eftir öðrum leiðum.
+Eigendur geta hafa gert breytingar á eignum sínum og upphaflegir kaupendur gætu hafa samið við byggingaraðila um öðruvísi frágang. Húsfélagið gæti hafa gert breytingar á sameign sem ekki eru skjalaðar hér. Upplýsingarnar eru birtar með fyrirvara um villur. Hér með er búið að vara þig við að engin ábyrgð er tekin á röngum upplýsingum sem kunna að vera hér. Áður en ákvarðanir eru teknar eða ráðist er í breytingar ætti alltaf að leita frumgagna, skoða hvort upplýsingarnar samrýmist raunveruleikanum og leita staðfestingar á upplýsingum eftir öðrum leiðum.
 
 ## Byggingaraðili
 Eykt byggði húsið fyrir Höfðaíbúðir.
