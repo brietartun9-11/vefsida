@@ -21,7 +21,7 @@ Djúpgámum íbúa er læst með öðru lyklakerfi heldur en hurðum og það þ
 
 
 ## Merkingar á dyrabjöllu og póstkassa
-Merkingar á dyrabjöllum og póstkössum eru sameiginlegar og er eigendum óheimilt að breyta þeim án samráðs við húsfélagið. Nöfn eru sett á skilti húsfélagsins í anddyri við hlið dyrabjöllu og póstkassar eru eingöngu merktir með íbúðarnúmeri. Kostnaður við breytingu á merkingu er greiddur af eiganda viðkomandi eignarhluta en breytingin er framkvæmd af húsfélaginu. Kostnaðurinn er síðan innheimtur með húsfélagsgjöldum. Kostnaður hefur verið u.þ.b. 3.500 kr. á hvert íbúðarskilti. [Eigandi fyllir út þetta form](https://docs.google.com/forms/d/e/1FAIpQLScwAHLjHviTC5xqEL16l92XDASBUC9omKuqC2p8_jycsJTQqw/viewform) til að panta breytingu á skilti.
+Merkingar á dyrabjöllum og póstkössum eru sameiginlegar og er eigendum óheimilt að breyta þeim án samráðs við húsfélagið. Nöfn eru sett á skilti húsfélagsins í anddyri við hlið dyrabjöllu og póstkassar eru eingöngu merktir með íbúðarnúmeri. Kostnaður við breytingu á merkingu er greiddur af eiganda viðkomandi eignarhluta en breytingin er framkvæmd af húsfélaginu. Kostnaðurinn er síðan innheimtur með húsfélagsgjöldum. Kostnaður hefur verið u.þ.b. 6.500 kr. á hvert íbúðarskilti. [Eigandi fyllir út þetta form](https://docs.google.com/forms/d/e/1FAIpQLScwAHLjHviTC5xqEL16l92XDASBUC9omKuqC2p8_jycsJTQqw/viewform) til að panta breytingu á skilti.
 
 ## Lóð og Bílakjallari
 Tvö önnur félög sjá um rekstur lóðar Höfðatorgs annars vegar og rekstur bílakjallara Höfðatorgs hins vegar. Þessi félög eru sameiginleg með öllum húsum á Höfðatorgi. Hafir þú ábendingu til þeirra sem sjá um daglegan rekstur skaltu senda tölvupóst á [husumsjon@hofdatorg.is](mailto:husumsjon@hofdatorg.is)

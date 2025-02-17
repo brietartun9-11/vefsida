@@ -15,5 +15,8 @@ Lóð hússins er sameiginleg með öðrum húsum á Höfðatorgi og sérstakt r
 ## Bílakjallari
 Sameiginlegur bílakjallari hússins og annarra húsa á Höfðatorgi er rekinn af sérstöku rekstrarfélagi: Rekstrarfélag um bílakjallara Höfðatorgs, kt. 470515-1390. Samkvæmt eignaskiptayfirlýsingu hússins fer eigandi verslunarrýmisins á jarðhæð með hlutdeild hússins í sameiginlegum bílakjallara. Húsfélagið eða aðrir eigendur koma ekki að rekstri bílakjallarans en býðst að leigja bílastæði þar gegn gjaldi.
 
+## Símaskrá íbúa
+Fyrir nokkrum árum var útbúin [símaskrá yfir íbúa](https://docs.google.com/spreadsheets/d/1YbGkwuJjxHnoHL_XCzBxxsXeA7G107XrkegIRTdve24/edit#gid=638939069) sem búin var til fyrir nokkrum árum. Ef þú ert með uppfærðar upplýsingar sendu tölvupóst á [brietartun911@gmail.com](mailto:brietartun911@gmail.com)
+
 ## Facebook hópur
 Eigendum og íbúum stendur til boða að fá aðgang að lokuðum hóp á Facebook. Þetta er óformlegur vettvangur sem er notaður til að miðla upplýsingum og ræða hin ýmsu mál af íbúum og eigendum sem kjósa að vera þar. Sjá [Bríetartún 9-11 á Facebook](https://www.facebook.com/groups/613416425849052).
